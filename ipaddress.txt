@@ -1,0 +1,5 @@
+abc 10.1.1.1   aabbcc
+def 11.2.0.0   eeffgg
+efg 0.0.0.0   ddeeff
+efg 0.0.0.0   ddeeff
+678.345.1.3
